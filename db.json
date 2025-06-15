@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "title": "Palestine.",
+      "description": "Discover the rich history of Palestine, home to ancient cities like Jerusalem and cultural treasures such as traditional embroidery.",
+      "image": "https://i.ibb.co/NBXmrMw/blob.jpg",
+      "date": "2025-06-15T10:42:25.593Z",
+      "userId": "2",
+      "username": "mohamed111",
+      "id": 3
+    },
+    {
+      "title": "Egypt",
+      "description": "Explore Egypt's wonders, from the majestic Pyramids of Giza to the vibrant markets of Cairo, a land of pharaohs and heritage.",
+      "image": "https://i.ibb.co/Cs8JBWSw/blob.jpg",
+      "date": "2025-06-15T10:42:50.618Z",
+      "userId": "2",
+      "username": "mohamed111",
+      "id": 4
+    },
+    {
+      "title": "Saudi Arabia",
+      "description": "Experience Saudi Arabia's blend of modernity and tradition, with historic sites like Al Rajhi Grand Mosque and bustling Riyadh.",
+      "image": "https://i.ibb.co/S7JZF2Q3/blob.webp",
+      "date": "2025-06-15T10:41:27.621Z",
+      "userId": "2",
+      "username": "mohamed111",
+      "id": 5
+    },
+    {
+      "title": "Sudan",
+      "description": "Sudan captivates with its ancient Nubian pyramids and the vibrant culture along the Nile River, a hidden gem of Africa.",
+      "image": "https://i.ibb.co/8nDTdFDw/blob.jpg",
+      "date": "2025-06-15T10:41:11.355Z",
+      "userId": "2",
+      "username": "mohamed111",
+      "id": 6
+    },
+    {
+      "title": "Iraq",
+      "description": "Iraq, the cradle of civilization, boasts historic sites like Babylon and the vibrant heritage of Baghdad’s souks.",
+      "image": "https://i.ibb.co/zhnFcRkn/blob.jpg",
+      "date": "2025-06-15T10:40:31.372Z",
+      "userId": "2",
+      "username": "mohamed111",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "username": "mohamed",
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "mohamed111",
+      "email": "hmdeen1188@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "username": "ةثيخخيي",
+      "email": "hmdeenjhgf1188@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ]
+}
